@@ -1,5 +1,8 @@
 _repo: Round-the-Corner-Being-the-Life-and-Death-of-Francis-Christopher-Folyat-Bachelor-of-Divinity-__52729
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52729-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannan, Gilbert
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2603
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_Cannan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52729#Round-the-Corner-Being-the-Life-and-Death-of-Francis-Christopher-Folyat-Bachelor-of-Divinity-_
 gutenberg_issued: '2016-08-05'
 gutenberg_type: Text
 identifiers:
